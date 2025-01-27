@@ -26,7 +26,7 @@ const Featured = () => {
           </h1>
           <p className="text-sm text-gray-400 ">
             Providing dietary strategies to support fitness goals. Meal plans
-            tailored for muscle gain, fat loss, or general health.
+            tailored for muscle gain, fat loss, or general healths.
           </p>
         </div>
         <div className=" text-center text-white border-2 border-transparent hover:border-teal-400 rounded-md duration-500 p-2 pt-6 ">
