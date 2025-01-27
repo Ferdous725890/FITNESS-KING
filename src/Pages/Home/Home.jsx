@@ -29,7 +29,7 @@ const Home = () => {
         <div>
             <Helmet>
                 <title>
-                    Fitness king | Home
+                    Fitness king || Home
                 </title>
             </Helmet>
             <Banner></Banner>
