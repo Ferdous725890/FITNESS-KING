@@ -8,7 +8,7 @@ const About = () => {
     <div className="bg-black">
       <h2 className="text-center text-2xl md:text-5xl">
         <span className="text-white">About </span>
-        <span className="text-teal-400 border-b-4 border-teal-400">FITNESS KING</span>
+        <span className="text-teal-400 border-b-4 border-teal-400">FITNESS_KING </span>
       </h2>
       <div className="lg:flex items-center py-20 px-10 xl:px-36 gap-10 2xl:gap-36">
         <div className="flex-1 text-justify  mb-10">
